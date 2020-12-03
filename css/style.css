@@ -1,0 +1,14 @@
+main{
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background: linear-gradient(60deg, red,blue);
+    border-radius: 10px;
+}
+h1{
+    color: white;
+}
+.form-grup label, small{
+    display: block;
+}
